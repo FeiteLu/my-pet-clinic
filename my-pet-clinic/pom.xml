@@ -23,7 +23,7 @@
     </properties>
     <scm>
         <developerConnection>
-            scm:git:FeiteLu@github.com:FeiteLu/my-pet-clinic.git
+            scm:git:https://github.com/FeiteLu/my-pet-clinic.git
         </developerConnection>
     </scm>
     <build>
