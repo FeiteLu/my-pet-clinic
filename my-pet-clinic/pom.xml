@@ -21,6 +21,11 @@
     <properties>
         <java.version>17</java.version>
     </properties>
+    <scm>
+        <developerConnection>
+            scm:git:FeiteLu@github.com:FeiteLu/my-pet-clinic.git
+        </developerConnection>
+    </scm>
     <build>
         <pluginManagement>
             <plugins>
