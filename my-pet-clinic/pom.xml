@@ -9,7 +9,7 @@
     </parent>
     <groupId>springFramework5</groupId>
     <artifactId>my-pet-clinic</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>my-pet-clinic</name>
     <description>my-pet-clinic</description>
@@ -24,7 +24,8 @@
         <developerConnection>
             scm:git:https://github.com/FeiteLu/my-pet-clinic.git
         </developerConnection>
-    </scm>
+      <tag>HEAD</tag>
+  </scm>
     <build>
         <pluginManagement>
             <plugins>
