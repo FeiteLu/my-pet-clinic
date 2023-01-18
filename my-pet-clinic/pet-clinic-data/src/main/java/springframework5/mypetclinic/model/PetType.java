@@ -6,10 +6,6 @@ import jakarta.persistence.Table;
 import lombok.*;
 
 
-/**
- * Created by jt on 7/13/18.
- */
-
 @Setter
 @Getter
 @NoArgsConstructor
